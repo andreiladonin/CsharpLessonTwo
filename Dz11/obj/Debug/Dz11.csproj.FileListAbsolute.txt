@@ -1,0 +1,7 @@
+C:\Users\ladon\source\repos\Dz11\bin\Debug\Dz11.exe.config
+C:\Users\ladon\source\repos\Dz11\bin\Debug\Dz11.exe
+C:\Users\ladon\source\repos\Dz11\bin\Debug\Dz11.pdb
+C:\Users\ladon\source\repos\Dz11\obj\Debug\Dz11.csprojAssemblyReference.cache
+C:\Users\ladon\source\repos\Dz11\obj\Debug\Dz11.csproj.CoreCompileInputs.cache
+C:\Users\ladon\source\repos\Dz11\obj\Debug\Dz11.exe
+C:\Users\ladon\source\repos\Dz11\obj\Debug\Dz11.pdb

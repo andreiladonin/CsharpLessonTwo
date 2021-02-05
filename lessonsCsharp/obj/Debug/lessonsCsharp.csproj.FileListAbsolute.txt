@@ -1,0 +1,7 @@
+C:\Users\ladon\source\repos\lessonsCsharp\bin\Debug\lessonsCsharp.exe.config
+C:\Users\ladon\source\repos\lessonsCsharp\bin\Debug\lessonsCsharp.exe
+C:\Users\ladon\source\repos\lessonsCsharp\bin\Debug\lessonsCsharp.pdb
+C:\Users\ladon\source\repos\lessonsCsharp\obj\Debug\lessonsCsharp.csprojAssemblyReference.cache
+C:\Users\ladon\source\repos\lessonsCsharp\obj\Debug\lessonsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ladon\source\repos\lessonsCsharp\obj\Debug\lessonsCsharp.exe
+C:\Users\ladon\source\repos\lessonsCsharp\obj\Debug\lessonsCsharp.pdb
